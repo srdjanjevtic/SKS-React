@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 
 const NotFound = () => {
-  const [time, setTime] = useState(5000);
+  const [time, setTime] = useState(10);
   const [seconds, setSeconds] = useState(0);
   const navigate = useNavigate();
 
