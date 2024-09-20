@@ -1,0 +1,62 @@
+[
+  {
+    "aks": {
+      "name": "Aks",
+      "validFrom": "01-05-2024",
+      "site": "https://www.aks.rs",
+      "priceList": "https://www.aks.rs/cenovnik",
+      "phone": ["015/600-600", "011/404-9720"],
+      "address": "Obilazni put bb, 15000 Šabac",
+      "email": "office@aks.rs",
+      "workingHours": "Pon-Pet: 8:00-18:00"
+    }
+  },
+  {
+    "bex": {
+      "name": "Bex",
+      "validFrom": "01-04-2024",
+      "site": "https://www.bex.rs",
+      "priceList": "https://www.bex.rs/cenovnikusluga.php",
+      "phone": ["0800/3555-000", "015/640-640", "011/6555-000"],
+      "address": "Kralja Milutina 146, 15000 Šabac",
+      "email": "bex@bex.rs",
+      "workingHours": "Pon-Pet: 07:30-20:00"
+    }
+  },
+  {
+    "dex": {
+      "name": "Dex",
+      "validFrom": "29-02-2024",
+      "site": "https://www.dexpress.rs",
+      "priceList": "https://www.dexpress.rs/rs/cenovnik",
+      "phone": ["011/331-3333", "011/331-3399"],
+      "address": "Zage Malivuk 1, 11060 Beograd",
+      "email": "office@dexpress.rs",
+      "workingHours": "Pon-Pet: 8:00-17:00"
+    }
+  },
+  {
+    "post": {
+      "name": "Post Express",
+      "validFrom": "15-11-2023",
+      "site": "http://www.postexpress.rs",
+      "priceList": "http://www.postexpress.rs/struktura/lat/cenovnik/cenovnik-unutrasnji-saobracaj.asp",
+      "phone": ["0800/100-808", "011/3607-607"],
+      "address": "Takovska 2, 11120 Beograd",
+      "email": "prodaja@posta.rs",
+      "workingHours": "Pon-Pet: 8:00-18:00, Sub: 8:00-15:00"
+    }
+  },
+  {
+    "city": {
+      "name": "City Express",
+      "validFrom": "01-04-2024",
+      "site": "https://www.cityexpress.rs",
+      "priceList": "https://www.cityexpress.rs/cenovnik-domaci-transport",
+      "phone": ["011/3093-000", "0800/3093-000"],
+      "address": "Svetog Save 36, 11271 Surčin",
+      "email": "info@cityexpress.rs",
+      "workingHours": "Pon-Pet: 8:00-17:00"
+    }
+  }
+]

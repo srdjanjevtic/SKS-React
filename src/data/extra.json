@@ -1,0 +1,52 @@
+[
+  {
+    "aks": {
+      "Otkupnina": 0.01,
+      "Minimalna otkupnina": 180,
+      "Potvrda o uručenju pošiljke (Povratnica)": 180,
+      "Plaćeni odgovor": 180,
+      "Povrat potpisane otpremnice (dokumentacije)": 180,
+      "SMS potvrda o uručenju": 22
+    }
+  },
+  {
+    "bex": {
+      "Otkupnina": 0.015,
+      "Minimalna otkupnina": 180,
+      "Potvrda o uručenju pošiljke (Povratnica)": 180,
+      "Plaćeni odgovor": 288,
+      "Povrat potpisane otpremnice (dokumentacije)": 180,
+      "SMS potvrda o uručenju": 22
+    }
+  },
+  {
+    "dex": {
+      "Otkupnina": 0.015,
+      "Minimalna otkupnina": 180,
+      "Potvrda o uručenju pošiljke (Povratnica)": 180,
+      "Plaćeni odgovor": 180,
+      "Povrat potpisane otpremnice (dokumentacije)": 180,
+      "SMS potvrda o uručenju": 24
+    }
+  },
+  {
+    "city": {
+      "Otkupnina": 0.01,
+      "Minimalna otkupnina": 112.5,
+      "Potvrda o uručenju pošiljke (Povratnica)": 180,
+      "Plaćeni odgovor": 180,
+      "Povrat potpisane otpremnice (dokumentacije)": 180,
+      "SMS potvrda o uručenju": 24
+    }
+  },
+  {
+    "post": {
+      "Otkupnina": 0.01,
+      "Minimalna otkupnina": 20,
+      "Potvrda o uručenju pošiljke (Povratnica)": 48,
+      "Plaćeni odgovor": 180,
+      "Povrat potpisane otpremnice (dokumentacije)": 180,
+      "SMS potvrda o uručenju": 16
+    }
+  }
+]
